@@ -3,7 +3,7 @@
 
 1. Briefly summarize the role of a systems analyst.
 
-The role of a system analyst involves planning, analyzing, and implementing information systems.
+The role of a systems analyst involves planning, analyzing, and implementing information systems.
 
   
 2. Why are CASE tools essential in systems analysis and design?
